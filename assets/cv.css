@@ -1,0 +1,25 @@
+body {
+    background-image: url("../Img/background.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+a {
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.title {
+    padding-top: 13rem;
+}
+
+header {
+    height: 100vh;
+}
+
+section {
+    background-color: black;
+    color: white;
+}
