@@ -54,17 +54,17 @@ section {
     font-weight: 800;
     align-items: center;
     text-align: center;
+    background: linear-gradient(90deg, rgba(98, 42, 131, 1) 25%, rgba(49, 157, 155, 1) 75%);
 }
 
 .mail-text i {
     font-size: 2rem;
     transition: transform 185ms;
-
 }
 
 .email a:hover i {
-transform: translateX(-1rem);
-transition: 185ms;
+    transform: translateX(-1rem);
+    transition: 185ms;
 }
 
 form .form-control {
@@ -95,6 +95,6 @@ form .form-control:focus {
 
 .contact .btn {
     background: linear-gradient(90deg, rgba(98, 42, 131, 1) 25%, rgba(49, 157, 155, 1) 75%);
-border: none;
-color: white;
+    border: none;
+    color: white;
 }
