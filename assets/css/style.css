@@ -57,7 +57,14 @@ section {
 }
 
 .mail-text i {
-    font-size: 2rem
+    font-size: 2rem;
+    transition: transform 185ms;
+
+}
+
+.email a:hover i {
+transform: translateX(-1rem);
+transition: 185ms;
 }
 
 form .form-control {
