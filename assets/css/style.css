@@ -135,4 +135,8 @@ form .form-control:focus {
     header {
         height: auto;
     }
+
+    .mail-text {
+     font-size: 1rem;
+    }
 }
