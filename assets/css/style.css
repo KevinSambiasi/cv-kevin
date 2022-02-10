@@ -48,8 +48,9 @@ section {
 .mail-text {
     display: flex;
     justify-content: space-between;
-    border: 0.15rem solid white;
+    border: 0.15rem solid black;
     color: white;
+    border-radius: 25px;
     font-size: 1.5rem;
     font-weight: 800;
     align-items: center;
