@@ -18,6 +18,12 @@ header a {
     padding-top: 1.5rem;
 }
 
+.alert {
+    position: absolute;
+    top: 70%;
+    left: 45%;
+}
+
 .title {
     padding-top: 13rem;
 }
